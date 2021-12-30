@@ -1,0 +1,57 @@
+.line-1{
+  background-color: RGB(255,228,225);
+  width : 70%;
+  margin : 10;
+  height : 40;
+  padding : 25;
+  font-family: monospace;
+  border: 5px;
+  font-size: 35; 
+  color: #830027;
+}
+
+.line-2{
+  font-size: 25; 
+  margin : 15;
+  font-family: system-ui;
+}
+
+.line-3{
+  font-size: 20; 
+  margin : 10;
+  font-family: system-ui;
+}
+
+.double {
+        border-style: double;
+        border-color: #830027;
+        border-left: 0;
+        border-right: 0;
+    }
+.box-1{
+  background-color: RGB(229,230,250);
+  width : 50%;
+  margin : 10;
+  height : 100;
+  padding : 40;
+  font-family: system-ui;
+}
+
+.groove {
+        border-style: groove;
+        border-color: blue;
+    }
+
+.box-2{
+  background-color: RGB(229,230,250);
+  width : 50%;
+  margin : 10;
+  height : 100;
+  padding : 40;
+  font-family: system-ui;
+}
+
+.h1{
+  color: blue;
+  font-size: 20;
+}
